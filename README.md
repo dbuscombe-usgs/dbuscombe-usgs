@@ -1,6 +1,6 @@
 
 <p align="center">
-	<a href="https://github.com/dbuscombe-usgs"><img src="https://img.shields.io/github/followers/magic_walnut.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/dbuscombe-usgs"><img src="https://img.shields.io/github/followers/dbuscombe-usgs.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://github.com/MARDAScience"><img src="https://img.shields.io/github/followers/MARDAScience.svg?label=GitHub&style=social" alt="GitHub"></a>  
 	<a href="https://twitter.com/magic_walnut"><img src="https://img.shields.io/twitter/follow/magic_walnut?label=Twitter&style=social" alt="Twitter"></a>
 </p>
