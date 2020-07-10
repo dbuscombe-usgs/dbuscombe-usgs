@@ -19,11 +19,11 @@ Click on the tiles below to find out more about my projects
 </tr>
 <tr>
     <td colspan=3><h3>Let's get in touch!</h3></td>
-<!-- </tr>
+</tr>
 <tr>
 <td style="text-align: center"><a href="/cdn-cgi/l/email-protection#bcd4d5fcc4ccced592d8d9ca"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/z/3.png" alt=""  width="100%" /></a></td>
-<td style="text-align: center"><a href="/cdn-cgi/l/email-protection#9eeeecf1f4fbfdeaeddee6eeecf7b0fafbe8"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/z/2.png" alt=""  width="100%" /></a></td>
+<td style="text-align: center"><a href=""><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/z/2.png" alt=""  width="100%" /></a></td>
 <td style="text-align: center"><a href="https://paypal.me/dbuscombe-usgs"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/z/1.png" alt=""  width="100%" /></a></td>
-</tr> -->
+</tr>
 </tbody>
 </table>
