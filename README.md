@@ -1,4 +1,4 @@
-## Hi, I'm Dan 👋
+👋
 
 Click on the tiles below to find out more about my projects
 
