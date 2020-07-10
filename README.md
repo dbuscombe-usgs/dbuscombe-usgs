@@ -1,13 +1,10 @@
-👋
-
-Click on the tiles below to find out more about my projects
 
 <table>
 <tbody>
 <tr>
-<td style="text-align: center"><a href="https://danielbuscombe.com"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/9.png" alt="" width="100%" /></a> <a href="https://mardascience.com"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/6.png" alt=""  width="100%" /></a> <a href="https://github.com/dbuscombe-usgs?tab=repositories&amp;q=&amp;type=&amp;language=javascript"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/3.png" alt=""  width="100%" /></a></td>
+<td style="text-align: center"><a href="https://danielbuscombe.com"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/9.png" alt="" width="100%" /></a> <a href="https://mardascience.com"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/6.png" alt=""  width="100%" /></a> <a href="https://danielbuscombe.com/"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/3.png" alt=""  width="100%" /></a></td>
 <td style="text-align: center"><a href="#"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/8.png" alt=""  width="100%" /></a> <a href="https://twitter.com/magic_walnut"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/5.png" alt=""  width="100%" /></a> <a href="https://github.com/dbuscombe-usgs?tab=repositories&amp;q=&amp;type=&amp;language=python"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/2.png" alt=""  width="100%" /></a></td>
-<td style="text-align: center"><a href="https://en.wikipedia.org/wiki/India"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/7.png" alt=""  width="100%" /></a> <a href="#"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/4.png" alt=""  width="100%" /></a> <a href="https://dbuscombe-usgs.com/posts/"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/1.png" alt=""  width="100%" /></a></td>
+<td style="text-align: center"><a href="https://en.wikipedia.org/wiki/India"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/7.png" alt=""  width="100%" /></a> <a href="#"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/4.png" alt=""  width="100%" /></a> <a href="https://danielbuscombe.com/"><img src="https://raw.githubusercontent.com/dbuscombe-usgs/dbuscombe-usgs/master/images/x/1.png" alt=""  width="100%" /></a></td>
 </tr>
 <tr>
     <td colspan=3><h3><h3></td>
